@@ -8,7 +8,7 @@
 
 1. fork 本仓库；
 
-2. 进入目录`projects`下，拷贝`template`目录并将该目录名改为你的项目名；
+2. 进入目录`projects`，拷贝`template`目录并将该目录名改为你的项目名，该目录名仅为路径名，字母统一小写；
 
 3. 根据目录下的`README.md`及`README_zh.md`模板内容进行修改，其中前者用于英文展示，后者用于中文展示；如果不需要中文展示，请删除`README_zh.md`文件；
 
@@ -16,9 +16,9 @@
 
    1. 在该json中能接受的key的项有：
 
-      | website | twitter | github | develop_doc | element | telement | discord |
+      | website | twitter | github | develop_doc | element | telegram | discord |
       | ------- | ------- | ------ | ----------- | ------- | -------- | ------- |
-      | 必须项  | 可选    | 可选   | 可选        | 可选    | 可选     | 可选    |
+      | 必须项   | 可选     | 可选    | 可选        | 可选     | 可选      | 可选    |
 
    2. 标注 “可选” 表示该项可以不提供，标注“必须”表示该项必须提供。
 

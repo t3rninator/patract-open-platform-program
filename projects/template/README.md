@@ -6,7 +6,7 @@
 
 > (The number of words is not limited, 200 words are best) 
 
-Patract is a Wasm Contract Technology Lab for Polkadot. We provides full-stack support for the Wasm contract ecosystem, including on-chain contract modules, off-chain tools and services, and user-side products.
+Patract is a Wasm Contract Technology Lab for Polkadot. We provide full-stack support for the Wasm contract ecosystem, including on-chain contract modules, off-chain tools and services, and user-side products.
 
 ## Wasm contract technical support
 
