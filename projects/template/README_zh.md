@@ -1,4 +1,4 @@
-# Patract Labs
+# [Patract Labs](https://patract.io/zh)
 
 > 请把标题改成您项目的项目名，并删除这条评论及后续的章节中的评论
 

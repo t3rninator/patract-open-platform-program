@@ -11,5 +11,5 @@
 3. 根据目录下的`README.md`及`README_zh.md`模板内容进行修改，其中前者用于英文展示，后者用于中文展示；如果不需要中文展示，请删除`README_zh.md`文件；
 4. 向本仓库提交 Pull Request，我们审核后会合并该提交请求，一段时间后会在http://open.patract.io 中生效。
 
-> 提交案例可参考 [PR#4](https://github.com/patractlabs/patract-open-platform-program/pull/4)。
+> 提交案例可参考 [PR#4](https://github.com/patractlabs/patract-open-platform-program/pull/4)，[PR#5](https://github.com/patractlabs/patract-open-platform-program/pull/5)。
 
