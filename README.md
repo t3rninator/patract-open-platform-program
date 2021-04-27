@@ -1,5 +1,7 @@
 # patract-open-platform-program
 
+[中文版本](./README_zh.md)
+
 Welcome to join Patract Open Platform. You can elaborate on the project introduction, Wasm technology roadmap, Wasm technology code display, developer community activities, etc. The updated content will be displayed at http://open.platform.io.
 
 If the description has nothing to do with Wasm contract technology, Patract may modify or delete the content.
