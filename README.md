@@ -13,3 +13,5 @@ If the description has nothing to do with Wasm contract technology, Patract may 
 3. Modify the template content to your content in the files `README.md` and `README_zh.md`, for the first one is for English content and last one for Chinese content. If you do not have Chinese version content, just delete the `README_zh.md` file.
 4. Create a Pull Request to this repo, we will review your PR and merge it. After a time, it will update in website http://open.platform.io.
 
+> The example PR could refers to [PR#4](https://github.com/patractlabs/patract-open-platform-program/pull/4)
+
