@@ -1,7 +1,9 @@
 {
 	"website": "https://www.litentry.com/",
 	"twitter": "https://twitter.com/litentry",
-	"github": "https://https://github.com/litentry",
+	"github": "https://github.com/litentry/",
 	"develop_doc": "https://docs.litentry.com/",
-	"telegram": "https://t.me/litentry"
+	"element": "",
+	"telement": "https://t.me/Litentry",
+	"discord": ""
 }
