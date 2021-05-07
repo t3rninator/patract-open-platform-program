@@ -11,6 +11,3 @@ Coinversation Protocol is the first synthetic asset issuance protocol and decent
 Coinversation develops based on the Substrate framework. In this Wasm Contract Platform, Coinversation aims to test the smart contracts on Patract and promote the development of Wasm contract ecosystem.View the code:https://github.com/Coinversation/coinpro
 
 
-## Developer activity
-
-Coming soon.
