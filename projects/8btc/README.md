@@ -1,4 +1,4 @@
-# [8btc](https://www.8btc.com/)
+# [8BTC](https://www.8btc.com/)
 
 ## Project Introduction
 
