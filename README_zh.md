@@ -22,7 +22,9 @@
 
    2. 标注 “可选” 表示该项可以不提供，标注“必须”表示该项必须提供。
 
-5. 向本仓库提交 Pull Request，我们审核后会合并该提交请求，一段时间后会在http://open.patract.io 中生效。
+5. 目录下的`tags`文件用于展示项目方的Tag，多个使用逗号`,`隔开，没有则不填写；
+
+6. 向本仓库提交 Pull Request，我们审核后会合并该提交请求，一段时间后会在http://open.patract.io 中生效。
 
 > 提交案例可参考 [PR#4](https://github.com/patractlabs/patract-open-platform-program/pull/4)，[PR#5](https://github.com/patractlabs/patract-open-platform-program/pull/5)。
 
