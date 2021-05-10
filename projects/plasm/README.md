@@ -6,9 +6,11 @@ Plasm Network is a DApps hub on Polkadot that supports Ethereum and layer 2 solu
 
 ## Wasm contract technical support
 
-Coming soon.
+Since Plasm Network is a WASM based smart contracts platform on Polkadot, we are integrating Patract's tools such as Redspot, Ask!, and Metis. All latest information is available in our documentation: https://docs.plasmnet.io/
 
 ## Developer activity
 
-Coming soon.
+Once Plasm is live, we will enable DApps Staking. This feature allows developers to deploy WASM smart contracts and earn PLM tokens as a basic income. 
+
+Currently, you can deploy WASM contracts on Plasm Network testnet. Here is the tutorial: https://docs.plasmnet.io/build/smart-contracts/wasm
 
