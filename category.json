@@ -1,6 +1,6 @@
 {
   "Infrastructure": ["patract", "apron"],
-  "Parachain": ["acala", "plasm", "litentry", "subdao", "manta", "bifrost", "clover", "phala", "standard", "mathchain"],
+  "Parachain": ["acala", "plasm", "litentry", "subdao", "manta", "bifrost", "clover", "phala", "standard", "math"],
   "DApp": ["opensquare", "coinversation", "zenlink"],
   "Media": ["polkaworld", "polkaproject", "8btc", "one_blockchain+"]
 }
