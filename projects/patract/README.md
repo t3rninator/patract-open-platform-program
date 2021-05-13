@@ -33,6 +33,7 @@ Provide off-chain toolbox support for ink! contracts.
 DApp store framework has been completed.Multi-chain account management and DApp convenient interactive system, supporting the community to carry out secondary development and independent operation. 
 
 **Follow-up development plans**
+
 Patract plans to carry out development work such as PatraScan (contract chain browser), Leda (contract monitor), Carpo (cloud smart IDE), etc.
 
 
