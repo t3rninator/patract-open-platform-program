@@ -1,5 +1,5 @@
 {
-  "Infrastructure": ["patract", "apron"],
+  "Infrastructure": ["patract", "apron", "crust"],
   "Parachain": ["acala", "plasm", "litentry", "subdao", "manta", "bifrost", "clover", "phala", "standard", "math", "nftmart"],
   "DApp": ["opensquare", "coinversation", "zenlink"],
   "Media": ["polkaworld", "polkaproject", "8btc", "one_blockchain+"]
